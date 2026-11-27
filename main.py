@@ -1,6 +1,6 @@
 
 
-var = 5
+var = 15
 
 print(var)
 
